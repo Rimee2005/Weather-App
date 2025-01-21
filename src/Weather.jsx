@@ -17,7 +17,7 @@ export default function Weather() {
       {weatherInfo && <InfoBox info={weatherInfo} />}
       <div className="footer">
         Git Repo:{" "}
-        <a href="" target="_blank">
+        <a href="https://github.com/Rimee2005/Weather-App" target="_blank">
           Click Here!
         </a>{" "}
         | LinkedIn:{" "}
