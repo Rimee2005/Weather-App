@@ -1,0 +1,8 @@
+.SearchBox {
+  margin-left: 500px; /* Center align the box instead of fixed margin-left */
+}
+
+.form-container {
+  text-align: center; /* Centers inline elements like the TextField and Button */
+  margin-top: 3px; /* Adjusted margin-top for spacing */
+}
